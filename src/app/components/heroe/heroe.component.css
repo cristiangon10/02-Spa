@@ -1,0 +1,22 @@
+.encabezado{
+    text-align: center;
+}
+
+.img{
+    width: 400px;
+} 
+
+#logotipo1{
+    width: 200px;
+    height: 200px;
+    margin: -3000;
+    padding-left: 40px;
+    
+}
+
+#logotipo2{
+    width: 300px;
+    height: 300px;
+    margin-top: -80px;
+
+}
